@@ -1,0 +1,3 @@
+#!\c\Program Files\nodejs\node
+
+console.log("hello, world!");
