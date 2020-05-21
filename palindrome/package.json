@@ -1,0 +1,23 @@
+{
+  "name": "anyan-palindrome",
+  "version": "1.0.0",
+  "description": "palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forlubi/javascript_tutorial.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Forlubi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Forlubi/javascript_tutorial/issues"
+  },
+  "homepage": "https://github.com/Forlubi/javascript_tutorial#readme"
+}
